@@ -25,7 +25,7 @@ The primary goal is for the functionality to work as expected. The idea is to sp
 - php artisan key:generate
 - php artisan migrate
 - php artisan db:seed
-- sail up
+- sail build && sail up
 - php artisan horizon (optional for local - for queueable job)
 
 ## API Routes
