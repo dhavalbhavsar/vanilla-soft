@@ -45,6 +45,11 @@ Name | Description | Command
 --- |----------------------------------------------------------------------| ---
 testMailIsQueuedAsJob | Check Email set for queue | `php artisan test --filter testMailIsQueuedAsJob`
 
+## Note
+
+Please find the `your_api_token` from .env.example for making auth process simple.
+
+
 
 
 
